@@ -67,5 +67,102 @@
   background-color: aquamarine;
   padding: 5%;
   text-align: center;
-  font-size: 200%;
+  font-size: 250%;
+}
+
+#second-section-galery{
+  display: flex;
+  background-color: aquamarine;
+}
+
+#second-section-galery-first{
+  width: 20%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+}
+
+#second-section-galery-text{
+  text-align: center;
+  font-size: 80%;
+}
+
+#second-section-galery-image{
+  width: 100%;
+}
+
+#second-section-galery-second{
+  width: 20%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+}
+
+#second-section-galery-third{
+  width: 20%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+}
+
+#second-section-galery-four{
+  width: 20%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+}
+
+#third-section{
+  display: flex;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+#third-section-image{
+  width: 90%;
+  padding-top: 15%;
+}
+
+#four-section{
+  display: flex;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+#four-section-image{
+  width: 100%;
+}
+
+#fifth-section-text{
+  background-color:rgb(3, 171, 255);
+  width: 50%;
+  font-size: 230%;
+  text-align: center;
+}
+
+#footer{
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+#footer-section{
+  background-color: black;
+  color: aliceblue;
+  display: flex;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-size: 50%;
+}
+
+#footer-section-first{
+  width: 50%;
+  padding-left: 5%;
+}
+
+#footer-section-second{
+  width: 25%;
+}
+
+#footer-section-third{
+  width: 25%;
 }
